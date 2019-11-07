@@ -9,4 +9,4 @@
 ### Sobre o projeto
 Replicando layout da timeline do Facebook com React, HTML5, CSS3 usando Flex Layout.
 
-Você pode ver o projeto rodando em (https://raynegomes.github.io/bootcamp-facebook-timeline-flex-layout/).
+Você pode ver o projeto rodando em (https://raynegomes.github.io/bootcamp-facebook-timeline-flex-layout/public/).
