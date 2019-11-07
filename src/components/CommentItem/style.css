@@ -1,0 +1,21 @@
+div.comment {
+  display: flex;
+  padding: 15px 0;
+}
+
+div.comment .avatar-comment {
+  margin-right: 15px;
+}
+
+div.comment .comment-content {
+  display: flex;
+  flex-direction: column;
+  background: rgb(245, 243, 243);;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+div.comment .comment-content .text-comment {
+  padding: 15px 0;
+  padding-bottom: 0;
+}
